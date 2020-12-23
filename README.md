@@ -34,7 +34,7 @@
 
 ###### 切入点表达式：切入点表达式是用来描述切点的，用来指定你想要的切点
 
-![image-20201223112015760](https://github.com/Deng1ei/JavaTraining/blob/master/img/1.png)
+![image-20201223112015760](https://github.com/Deng1ei/JavaTraining/blob/master/img/4.png)
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-![image-20201223094234735](https://github.com/Deng1ei/JavaTraining/blob/master/img/1.png)
+![image-20201223094234735](https://github.com/Deng1ei/JavaTraining/blob/master/img/3.png)
 
 
 
