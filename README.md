@@ -14,7 +14,7 @@
 
 
 
-![image-20201223093348269](https://github.com/Deng1ei/JavaTraining/blob/master/img/1.png)
+![image-20201223093348269](https://github.com/Deng1ei/JavaTraining/blob/master/img/2.png)
 
 查看Order的接口类可以得到验证
 
